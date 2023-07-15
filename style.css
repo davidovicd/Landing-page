@@ -36,7 +36,9 @@ a {
   display: flex;
   align-items: center;
   justify-content: center;
+  gap: 50px;
 }
+
 
 header h1 {
   font-size: 48px;
@@ -59,7 +61,7 @@ header button {
 }
 
 header img {
-  width: 800px;
+  width: 700px;
   height: 400px;
 }
 
